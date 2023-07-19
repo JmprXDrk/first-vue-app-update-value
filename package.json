@@ -1,7 +1,7 @@
 {
   "name": "first-vue-app",
   "version": "0.1.0",
-  "homepage": "https://JmprXDrk.github.io/first-vue-app-update-value",
+  "homepage": "https://jmprxdrk.github.io/first-vue-app-update-value",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
