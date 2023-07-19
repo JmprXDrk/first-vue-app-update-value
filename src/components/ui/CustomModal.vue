@@ -20,7 +20,7 @@ export default {
   },
   methods: {
     showModal() {
-      this.$emit('update:isShow', false)
+      this.$emit('update:is-show', false)
     },
   },
 }
